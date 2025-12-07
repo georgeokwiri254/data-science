@@ -8,14 +8,6 @@ env/
 venv/
 ENV/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints/
-
-# Data files (large)
-*.csv
-*.xlsx
-*.xls
 
 # Model files
 *.pkl
